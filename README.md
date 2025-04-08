@@ -2,51 +2,53 @@
 <h3 align="center">AI-Powered Developer | Data Scientist | Full-Stack & Mobile Dev 🚀</h3>
 
 🌟 Master's in Data Science & Artificial Intelligence  
-💻 Final Year Project: SkinGuard – AI-powered mobile app for skin cancer detection  
 📱 Building mobile apps with React Native & Flutter  
-🌐 Full-Stack development with Laravel, Django, and Bootstrap  
-📊 Passionate about machine learning, deep learning, and building real-world solutions  
+🌐 Full-Stack development with Laravel, Django & Bootstrap  
+🤖 Passionate about machine learning, deep learning, and building real-world intelligent systems  
 
 ---
 
 ### 🚀 Currently:
-- 🎓 Finishing my Master’s degree in DS & AI
-- 👨‍💻 Developing **SkinGuard** (CNN, EfficientNet, Hybrid AI models)
-- 🔍 Exploring AI applications in mobile health-tech
+- 🎓 Completing my Master’s in DS & AI  
+- 📱 Developing **SkinGuard** – AI-powered mobile app for skin cancer detection  
+- 🔍 Exploring AI integration in mobile health-tech apps  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+#### 💻 Languages  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-**Frontend & Mobile**  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+#### 🎨 Frontend & Mobile  
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+#### 🧠 Machine Learning & AI  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-**ML & AI**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
+#### 🧩 Backend  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-**Tools**  
-![Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+#### 🧰 Tools & Platforms  
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 ---
 
 ### 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/azharderardja)
+- 💼 [LinkedIn](https://www.linkedin.com/in/azhar-derardja-052a96217/)
 - 📬 azharderardja@gmail.com
-- 🌐 Portfolio: Coming Soon
+- 🌐 [Portfolio](https://azharderardja.netlify.app/)
 
 ---
