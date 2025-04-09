@@ -38,7 +38,7 @@
 #### 🟣 Mobile Development
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="55" height="55" style="margin: 0 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="55" height="55" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="55" height="55" style="margin: 0 10px;" />
 </p>
 
@@ -74,7 +74,3 @@
 
 ---
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=azharderardja&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharderardja&layout=compact&theme=radical" alt="Top Languages" />
-</div>
