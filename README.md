@@ -7,11 +7,12 @@
 </h3>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif; color: #2f3542; font-size: 1.1em;">
-  <strong>🌟</strong> MSc in Data Science & AI<br>
-  <strong>📱</strong> Crafting mobile experiences with <strong>React Native</strong> & <strong>Flutter</strong><br>
-  <strong>🌐</strong> Web magic with <strong>Laravel</strong>, <strong>Django</strong> & <strong>Bootstrap</strong><br>
-  <strong>🧠</strong> Passionate about ML, vision models, and intelligent systems
+  <strong>🎓</strong> Master's Degree in Data Science and Artificial Intelligence<br>
+  <strong>📱</strong> Developing cross-platform mobile apps using <strong>React Native</strong> and <strong>Flutter</strong><br>
+  <strong>🌐</strong> Building dynamic web applications with <strong>Laravel</strong>, <strong>Django</strong>, and <strong>Bootstrap</strong><br>
+  <strong>🧠</strong> Enthusiastic about machine learning, computer vision, and intelligent systems
 </p>
+
 
 ---
 
