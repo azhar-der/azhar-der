@@ -1,25 +1,35 @@
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #2d3436; font-weight: bold;">
-  👋 Hi, I'm <span style="color: #0984e3;">Azhar Derardja</span>
+<!-- Intro Section -->
+<table>
+  <tr>
+    <!-- Left Column: Textual Introduction -->
+    <td align="left" style="vertical-align: top; font-family: 'Segoe UI', sans-serif;">
+
+<h1 style="font-weight: bold; color: #2d3436;">
+  <span>👋</span> <span style="animation: wave 1.5s infinite;">Hi, I'm <span style="color:#0984e3;">Azhar Derardja</span></span>
 </h1>
 
-<h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #636e72; font-weight: 500;">
-  🚀 AI Developer | Data Scientist | Full-Stack & Mobile Engineer
-</h3>
+<h3 style="color: #636e72;">🚀 AI Developer | Data Scientist | Full-Stack & Mobile Engineer</h3>
 
-<p align="center" style="font-family: 'Segoe UI', sans-serif; color: #2f3542; font-size: 1.1em;">
+<p style="font-size: 1.05em; color: #2f3542;">
   <strong>🎓</strong> Master's Degree in Data Science and Artificial Intelligence<br>
   <strong>📱</strong> Building cross-platform mobile apps with <strong>React Native</strong> and <strong>Flutter</strong><br>
   <strong>🌐</strong> Developing powerful web apps with <strong>Laravel</strong>, <strong>Django</strong>, and <strong>Bootstrap</strong><br>
   <strong>🧠</strong> Passionate about Machine Learning, Computer Vision, and AI-driven innovation
 </p>
 
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation">
-</p>
+    </td>
+
+    <!-- Right Column: GIF -->
+    <td align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" width="350"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
+<!-- Keep the rest as you have it; icons and sections are already styled correctly -->
 
 ### 🔵 Frontend
 <p align="center">
@@ -84,8 +94,4 @@
   <a href="https://github.com/azharderardja" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img align="right" height="300" width="400" alt="AI Dev GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
