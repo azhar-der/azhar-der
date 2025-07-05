@@ -1,26 +1,25 @@
-<!-- Intro with side-by-side layout using HTML table for GitHub compatibility -->
-<table>
-  <tr>
-    <td width="60%">
-      
-<h1>👋 Hi, I'm <span style="color:#0984e3;">Azhar Derardja</span></h1>
-
-🚀 <strong>AI Developer | Data Scientist | Full-Stack & Mobile Engineer</strong><br>
-🎓 Master's in Data Science and Artificial Intelligence<br>
-📱 React Native & Flutter mobile apps<br>
-🌐 Web apps with Laravel, Django, and Bootstrap<br>
-🧠 Passionate about ML, Computer Vision, and AI innovation
-
-   </td>
-   <td>
-     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Dev GIF" width="300"/>
-   </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0984e3&size=40&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Azhar+Derardja+%F0%9F%91%8B;AI+Developer+|+Data+Scientist+|+Full-Stack+Engineer;Welcome+to+my+profile+%F0%9F%92%AB" alt="Typing Intro">
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"/> About Me</h2>
+
+<ul>
+  <li>🎓 My full name is <strong>Azhar Derardja</strong> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"></li>
+  <li>🧠 I hold a <strong>Master's degree in Data Science & AI</strong></li>
+  <li>📱 I build cross-platform mobile apps using <strong>React Native</strong> and <strong>Flutter</strong></li>
+  <li>🌐 I develop modern web apps with <strong>Laravel</strong>, <strong>Django</strong>, and <strong>Bootstrap</strong></li>
+  <li>💡 I'm passionate about <strong>AI, Machine Learning, Computer Vision</strong></li>
+  <li>🚀 Currently building an AI-powered skin cancer diagnostic app</li>
+  <li>📬 You can reach me at: <strong>azharderardja@gmail.com</strong></li>
+  <li>⚡ Fun fact: I debug life the same way I debug code — one bug at a time!</li>
+</ul>
+
+---
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" height="40px"> Tech Stack</h2>
 
 ### 🔵 Frontend
 <p align="center">
@@ -35,7 +34,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/> <!-- ✅ Working Laravel icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
@@ -44,7 +43,7 @@
 
 ### 🟣 Mobile
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
 </p>
 
