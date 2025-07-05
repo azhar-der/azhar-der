@@ -4,10 +4,10 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="65px" height="60px"/> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="60px" height="60px"/> About Me</h2>
 
 <ul>
-  <li>🎓 My full name is <strong>Azhar Derardja</strong> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"></li>
+  <li>🎓 My full name is <strong>Azhar Derardja</strong> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" align="right"></li>
   <li>🧠 I hold a <strong>Master's degree in Data Science & AI</strong></li>
   <li>📱 I build cross-platform mobile apps using <strong>React Native</strong> and <strong>Flutter</strong></li>
   <li>🌐 I develop modern web apps with <strong>Laravel</strong>, <strong>Next js</strong>, and <strong>React</strong></li>
