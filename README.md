@@ -1,35 +1,26 @@
-<!-- Intro Section -->
-<table>
-  <tr>
-    <!-- Left Column: Textual Introduction -->
-    <td align="left" style="vertical-align: top; font-family: 'Segoe UI', sans-serif;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<h1 style="font-weight: bold; color: #2d3436;">
-  <span>👋</span> <span style="animation: wave 1.5s infinite;">Hi, I'm <span style="color:#0984e3;">Azhar Derardja</span></span>
-</h1>
+<!-- Left: Introduction -->
+<div>
 
-<h3 style="color: #636e72;">🚀 AI Developer | Data Scientist | Full-Stack & Mobile Engineer</h3>
+### 👋 Hi, I'm **Azhar Derardja**
 
-<p style="font-size: 1.05em; color: #2f3542;">
-  <strong>🎓</strong> Master's Degree in Data Science and Artificial Intelligence<br>
-  <strong>📱</strong> Building cross-platform mobile apps with <strong>React Native</strong> and <strong>Flutter</strong><br>
-  <strong>🌐</strong> Developing powerful web apps with <strong>Laravel</strong>, <strong>Django</strong>, and <strong>Bootstrap</strong><br>
-  <strong>🧠</strong> Passionate about Machine Learning, Computer Vision, and AI-driven innovation
-</p>
+🚀 AI Developer | Data Scientist | Full-Stack & Mobile Engineer  
+🎓 Master's Degree in Data Science and Artificial Intelligence  
+📱 Building cross-platform mobile apps with **React Native** and **Flutter**  
+🌐 Developing powerful web apps with **Laravel**, **Django**, and **Bootstrap**  
+🧠 Passionate about **Machine Learning**, **Computer Vision**, and **AI-driven innovation**
 
-    </td>
+</div>
 
-    <!-- Right Column: GIF -->
-    <td align="right">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" width="350"/>
-    </td>
-  </tr>
-</table>
+<!-- Right: GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Dev GIF"/>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
-<!-- Keep the rest as you have it; icons and sections are already styled correctly -->
 
 ### 🔵 Frontend
 <p align="center">
@@ -44,7 +35,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
