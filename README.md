@@ -4,7 +4,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="70px" height="70px"/> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="65px" height="60px"/> About Me</h2>
 
 <ul>
   <li>🎓 My full name is <strong>Azhar Derardja</strong> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"></li>
@@ -34,7 +34,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" width="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" width="60" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
