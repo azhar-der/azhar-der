@@ -4,7 +4,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"/> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"/> About Me</h2>
 
 <ul>
   <li>🎓 My full name is <strong>Azhar Derardja</strong> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"></li>
@@ -12,9 +12,9 @@
   <li>📱 I build cross-platform mobile apps using <strong>React Native</strong> and <strong>Flutter</strong></li>
   <li>🌐 I develop modern web apps with <strong>Laravel</strong>, <strong>Django</strong>, and <strong>Bootstrap</strong></li>
   <li>💡 I'm passionate about <strong>AI, Machine Learning, Computer Vision</strong></li>
-  <li>🚀 Currently building an AI-powered skin cancer diagnostic app</li>
-  <li>📬 You can reach me at: <strong>azharderardja@gmail.com</strong></li>
-  <li>⚡ Fun fact: I debug life the same way I debug code — one bug at a time!</li>
+  <li>🚀 Currently building an Smart Stock Management mobile app</li>
+  <li>📬 You can reach me at: <strong>derardjaazhar@gmail.com</strong></li>
+  <li>⚡ Fun fact: My code works… until someone touches it.</li>
 </ul>
 
 ---
